@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, world! I'm Amjko,
 🎀 Aspiring to be Just Monika! Just kidding!<br>💻 Aspiring to be a Cybersecurity Professional.
 
 
