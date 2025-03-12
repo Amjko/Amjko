@@ -1,5 +1,5 @@
 # 💫 Hello, world! I'm Amjko,
-🎀 Aspiring to be Just Monika! Just kidding!<br>💻 Aspiring to be a Cybersecurity Professional.
+🎀 Aspiring to be Just Monika! Just kidding!<br>💻 Aspiring to work in Cybersecurity.
 
 
 ## 🌐 Socials:
