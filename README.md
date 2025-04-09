@@ -1,4 +1,4 @@
-<!-- # 💫 Hello, world! I'm Amjko,
+<!-- # 💫 Hello world! I'm Amjko,
 🎀 Aspiring to be Just Monika. Just kidding!<br>💻 Aspiring to work in Cybersecurity.
 
 
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Amjko&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjko&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-# Hello, world!
+# Hello world!
 I'm Amjko, an undergraduate aspiring to work in Cybersecurity.
 
 ## Socials:
