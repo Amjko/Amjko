@@ -32,7 +32,7 @@
 
 
 <details>
-  <summar><h2>Stats and Activity</h2></summary>
+  <summary><h2>Stats and Activity</h2></summary>
 
 ![Amjko's Stats]()
   <a href="https://https://github.com/anuraghazra/github-readme-stats">
