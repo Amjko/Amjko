@@ -21,13 +21,6 @@
 <!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
-![Amjko's Stats](https://github-readme-stats-amjkos-projects.vercel.app/api?username=Amjko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-stats-amjkos-projects.vercel.app/api/?username=Amjko&theme=tokyonight&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" />
-</a>
-
-
-
 
 
 
@@ -35,10 +28,10 @@
   <summary><h2>Stats and Activity</h2></summary>
 
   <a href="https://https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amjko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="192px" />
-  </a>
-  <a href="https://https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-amjkos-projects.vercel.app/api/?username=Amjko&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br/>
 </details>
