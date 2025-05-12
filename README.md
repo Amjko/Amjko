@@ -30,13 +30,21 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Amjko&theme=tokyonight&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" />
   </a>
+
   <a href="https://https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
+
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjko&theme=dracula" height="192px"/>
+  </a>
+
   <br/>
+
 </details>
 
 
