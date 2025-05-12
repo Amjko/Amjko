@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjko&theme=dracula" height="192px"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjko&theme=tokyo-night" />
   </a>
 
   <br/>
