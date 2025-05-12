@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Amjko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="192px" />
   </a>
   <a href="https://https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/?user=Amjko&theme=tokyonight&hide_border=true" height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/>
 </details>
