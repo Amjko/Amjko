@@ -14,7 +14,11 @@
 
 ## Hello, I'm Amjko
 <!-- **An undergraduate and self-taught student developer, whose aspiring to work in Cybersecurity.** -->
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13BDF7&center=true&vCenter=true&width=435&lines=A+self-taught+student+developer;Driven+by+passion+for+Cybersecurity;Always+eager+to+learn+new+things" alt="Typing SVG" /></a>
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13BDF7&center=true&vCenter=true&width=435&lines=A+self-taught+student+developer;Driven+by+passion+for+Cybersecurity;Always+eager+to+learn+new+things" alt="Typing SVG" />
+  </a>
+</div>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ian-agustin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ianagustin.connect@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amiko2234)
