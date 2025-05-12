@@ -31,7 +31,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-amjkos-projects.vercel.app/api/?username=Amjko&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/github-readme-streak-stats?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amjko&theme=tokyonight&hide_border=true" height="192px"/>
   </a>
   <br/>
 </details>
