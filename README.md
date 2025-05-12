@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Amjko&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amjko&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-<h1 align="center">Hello, I'm Amjko</h1>
+<h2>Hello, I'm Amjko</h2>
 <h3 align="center">An undergraduate and self-taught student developer, whose aspiring to work in Cybersecurity.</h3>
 
 ## Socials:
