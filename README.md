@@ -22,6 +22,11 @@
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 
 
+<details>
+  <summary><h2>Tools I know</h2></summary>
+  <h3>
+
+</details>
 
 
 <details>
@@ -40,11 +45,13 @@
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjko&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amjko&theme=tokyo-night&hide_border=true&border_radius=1" />
   </a>
 
   <br/>
 
 </details>
 
-
+<div align="center">
+  <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
