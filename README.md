@@ -14,7 +14,7 @@
 
 ## Hello, I'm Amjko
 <!-- **An undergraduate and self-taught student developer, whose aspiring to work in Cybersecurity.** -->
-<div style="text-align: center;">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=13BDF7&center=true&vCenter=true&width=435&lines=A+self-taught+student+developer;Driven+by+passion+for+Cybersecurity;Always+eager+to+learn+new+things" alt="Typing SVG" />
   </a>
